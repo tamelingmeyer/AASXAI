@@ -1,0 +1,15 @@
+configspace==0.6.1
+cython==3.0.8
+liac-arff==2.5.0
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
+pyrfr==0.9.0
+scikit-learn==1.3.2
+scipy==1.10.1
+seaborn==0.13.2
+shap==0.44.1
+smac==1.4.0
+xgboost==2.0.3
+git+https://github.com/mlindauer/ASlibScenario
+git+https://github.com/automl/AutoFolio

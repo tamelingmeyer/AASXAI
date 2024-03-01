@@ -1,0 +1,2 @@
+git+https://github.com/mlindauer/ASlibScenario
+git+https://github.com/automl/AutoFolio
